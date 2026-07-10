@@ -1,54 +1,72 @@
-# Hi, I'm Neguse Solomon 👋 
+# Neguse Solomon Mekonnen 👋
+### Engineering • Technology • Management
 
-### Computational Structural Engineer | Full-Stack Architect | AI & Innovation
-
-I specialize in the synergy between **Structural Engineering** and **Advanced Computing**. My mission is to build the next generation of resilient infrastructure through AI-driven reliability, digital twins, and full-stack software solutions.
+I am a multidisciplinary professional dedicated to the intersection of **Structural Engineering**, **Computer Science**, and **Strategic Leadership**. I design, analyze, and build intelligent systems—ranging from resilient physical infrastructure to scalable digital architectures.
 
 ---
 
 ### 🛠 Professional Focus
-- **Computational Engineering:** Leveraging Bayesian Reliability, MCMC simulations, and Probabilistic Modeling to extend the life of critical infrastructure.
-- **Full-Stack Systems:** Designing high-performance web and mobile applications that bridge the gap between complex engineering data and user-centric interfaces.
-- **AI & Data Science:** Applying Machine Learning and Predictive Analytics to Structural Health Monitoring (SHM) and sustainable construction.
-- **Leadership:** Founder & CEO at **Tebib**, driving digital transformation in the construction and tech sectors.
+
+- **Engineering Design & Analysis:** Utilizing computational mechanics, Bayesian reliability, and advanced simulation to design, build, and optimize critical infrastructure for a sustainable future.
+- **Software Architecture & AI:** Crafting full-stack applications and AI-driven solutions that transform complex data into actionable insights and high-performance digital tools.
+- **Strategic Innovation & Management:** Leading cross-functional teams and organizations (Tebib, EYEA) to drive digital transformation and operational excellence in the tech and construction sectors.
 
 ---
 
 ### 🔬 Flagship Research & Development
+
 #### [Bayesian Reliability & Structural Health Monitoring](https://github.com/Ngusey21/zijlweg-bayesian-reliability)
 A state-of-the-art framework for quantifying bridge reliability using field monitoring data.
-- **Innovation:** Integrated Bayesian updating with deterministic mechanical stop criteria (CSCT/CSDT).
-- **Tech Stack:** `C++` (High-performance computing), `Python` (Data Science), `MATLAB`.
-- **Outcome:** Proven methodology to bypass conservative analytical models, ensuring safety while optimizing infrastructure maintenance.
+- **Tech Stack:** `C++`, `Python` (Data Science), `MATLAB`.
+- **Impact:** Integrating AI-driven probabilistic modeling with structural analysis to ensure safety and optimize maintenance.
+
+---
+
+### 🚀 Featured Projects
+
+#### 📱 Featured Application 1
+*Brief description of your app (e.g., A mobile solution for construction tracking or a utility tool).*
+- **Stack:** React Native / Flutter / Node.js
+
+#### 💻 Featured Website 1
+*Brief description of your web platform (e.g., Tebib’s official platform or an engineering dashboard).*
+- **Stack:** React.js / Next.js / PostgreSQL
+
+---
+
+### 🌍 Global Impact & Leadership
+
+- **Erasmus Mundus Scholar:** Risk Assessment & Infrastructure Management (Europe/Global).
+- **International Monitor:** Special Monitoring Mission (SMM) at the **International Human Rights Commission (IHRC)**.
+- **Executive Leadership:** Secretariat of the Board at **Ethiopian Youth Entrepreneurs Association (EYEA)**.
+- **Former President:** **ECESA-WOU**, leading academic and external initiatives for civil engineering professionals.
+- **UoPeople Ambassador:** Promoting the democratization of global Computer Science education.
 
 ---
 
 ### 💻 Tech Ecosystem
 
-| Infrastructure & Engineering | Software & AI | Data & Cloud |
+| Infrastructure & Engineering | Software & AI | Management & Tools |
 | :--- | :--- | :--- |
-| **Analysis:** ETABS, SAP2000, SAFE | **Languages:** JavaScript (ES6+), Python, C++ | **AI/ML:** NumPy, SciPy, Scikit-learn |
-| **Design:** AutoCAD, Civil 3D, STAAD.Pro | **Web:** React.js, Node.js, Next.js | **Databases:** PostgreSQL, MongoDB |
-| **BIM:** Integrated Project Management | **DevOps:** Git, Docker, Agile | **Math:** MATLAB, Bayesian Inference |
+| **Analysis:** ETABS, SAP2000, SAFE | **Languages:** Python, JavaScript, C++ | **Strategic:** Agile, Scrum, PMP |
+| **Design:** AutoCAD, Civil 3D, Revit | **Web:** React, Node.js, Next.js | **Ops:** Git, Docker, LaTeX |
+| **BIM:** Structural Design & Planning | **AI/ML:** NumPy, SciPy, MCMC | **Leadership:** Strategic Operations |
 
 ---
 
 ### 📊 GitHub Activity
-![Neguse's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ngusey21&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ngusey21&layout=compact&theme=radical)
-
----
-
-### 🌍 Global Impact & Leadership
-- **Erasmus Mundus Scholar:** Risk Assessment & Infrastructure Management (Europe).
-- **UoPeople Ambassador:** Advocating for the democratization of Computer Science education.
-- **Social Impact:** Actively involved in human rights monitoring and community peacebuilding initiatives.
+&nbsp;
+![Neguse's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ngusey21&show_icons=true&theme=radical&hide_border=true)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ngusey21&layout=compact&theme=radical&hide_border=true)
 
 ---
 
 ### 📫 Let's Build the Future
-- **LinkedIn:** [/in/negusesolomon](https://linkedin.com/in/negusesolomon)
+- **LinkedIn:** [linkedin.com/in/negusesolomon](https://linkedin.com/in/negusesolomon)
 - **Portfolio:** [neguse.netlify.app](https://neguse.netlify.app/)
 - **Email:** negusesolomon948@gmail.com
 
-*"The best way to predict the future is to design and code it."*
+**Always Dream!**  
+*"Nobody's ever too old to set another goal, or to dream another dream."*  
+— C.S. Lewis  
+**PLATENET**
