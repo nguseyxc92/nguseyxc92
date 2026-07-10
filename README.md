@@ -56,8 +56,8 @@ A state-of-the-art framework for quantifying bridge reliability using field moni
 
 ### 📊 GitHub Activity
 
-![Neguse's Stats](https://github-readme-stats.vercel.app/api?username=Ngusey21&show_icons=true&theme=radical&hide_border=true)
-![GitHub Streak](https://streak-stats.demolab.com?user=Ngusey21&theme=radical&hide_border=true)
+![Neguse's Stats](https://github-readme-stats.vercel.app/api?username=nguseyxc92&show_icons=true&theme=radical&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=nguseyxc92&theme=radical&hide_border=true)
 
 > **Note:** If the stats card above is not visible, it is due to global server traffic. For a 100% permanent solution, I recommend using the **GitHub Metrics** action below.
 
