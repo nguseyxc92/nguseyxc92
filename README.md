@@ -71,4 +71,3 @@ A state-of-the-art framework for quantifying bridge reliability using field moni
 **Always Dream!**  
 *"Nobody's ever too old to set another goal, or to dream another dream."*  
 — C.S. Lewis  
-**PLATENET**
