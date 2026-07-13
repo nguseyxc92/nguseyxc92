@@ -15,7 +15,7 @@ I am a multidisciplinary professional dedicated to the intersection of **Structu
 
 ### 🔬 Flagship Research & Development
 
-#### [Bayesian Reliability & Structural Health Monitoring](https://github.com/Ngusey21/zijlweg-bayesian-reliability)
+#### [Bayesian Reliability Updating of Bridge Structural Reliability Using Monitoring Data and Stop Criteria: A Case Study of the Zijlweg Viaduct](https://github.com/Ngusey21/zijlweg-bayesian-reliability)
 A state-of-the-art framework for quantifying bridge reliability using field monitoring data.
 - **Tech Stack:** `C++`, `Python` (Data Science), `MATLAB`.
 - **Impact:** Integrating AI-driven probabilistic modeling with structural analysis to ensure safety and optimize maintenance.
