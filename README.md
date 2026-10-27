@@ -1,5 +1,5 @@
 # Neguse Solomon Mekonnen 👋
-### Engineering • Technology • Management
+### Engineering • Technology • Research
 
 I am a multidisciplinary professional dedicated to the intersection of **Structural Engineering**, **Computer Science**, and **Strategic Leadership**. I design, analyze, and build intelligent systems—ranging from resilient physical infrastructure to scalable digital architectures.
 
