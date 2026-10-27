@@ -15,10 +15,16 @@ I am a multidisciplinary professional dedicated to the intersection of **Structu
 
 ### 🔬 Flagship Research & Development
 
-#### [Bayesian Reliability Updating of Bridge Structural Reliability Using Monitoring Data and Stop Criteria: A Case Study of the Zijlweg Viaduct](https://github.com/Ngusey21/zijlweg-bayesian-reliability)
+#### 1. [Bayesian Reliability Updating of Bridge Structural Reliability Using Monitoring Data and Stop Criteria: A Case Study of the Zijlweg Viaduct](https://github.com/Ngusey21/zijlweg-bayesian-reliability)
 A state-of-the-art framework for quantifying bridge reliability using field monitoring data.
 - **Tech Stack:** `C++`, `Python` (Data Science), `MATLAB`.
 - **Impact:** Integrating AI-driven probabilistic modeling with structural analysis to ensure safety and optimize maintenance.
+
+### 2. [Deep-Learning Surrogate Digital Twins for Predictive Capacity Auditing and Maintenance Optimization](https://github.com/nguseyxc92/culvert_twin)
+An advanced ML framework creating high-speed surrogate models for large-scale hydraulic infrastructure reliability tracking.
+* **Case Study:** Jemo–Lancha box-culvert corridor, Nifas Silk-Lafto, Addis Ababa.
+* **Tech Stack:** `Python` (Scikit-Learn, PySWMM, NumPy, SciPy), `EPA SWMM 5`.
+* **Impact:** Integrates Latin Hypercube Sampling (LHS) and ANN/GPR ensembles to run safety analysis 8,000× faster than dynamic-wave models, providing optimized condition-based maintenance thresholds.
 
 ---
 
