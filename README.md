@@ -30,7 +30,7 @@ An advanced ML framework creating high-speed surrogate models for large-scale hy
 
 ### 🚀 Featured Projects
 
-#### [Tebib Labs: Official Website](https://github.com/nguseyxc92/tebib_labs)
+#### 1. [Tebib Labs: Official Website](https://github.com/nguseyxc92/tebib_labs)
 The corporate website of Tebib Labs, a software engineering and applied R&D company. It includes interactive Bayesian reliability and sensor-telemetry visualizations, a technical insights journal and project pages.
 * **Live:** [tebib-labs.netlify.app](https://tebib-labs.netlify.app/) · [GitHub Pages](https://nguseyxc92.github.io/tebib-labs-website/)
 * **Stack:** `React` · `TypeScript` · `Vite` · `Tailwind CSS`
