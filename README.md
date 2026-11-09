@@ -10,7 +10,6 @@ I am a **Civil & Software Engineer** and **Researcher** dedicated to the interse
 *   **Structural Engineering & Reliability:** Utilizing computational mechanics, risk assessment, and Bayesian inference to optimize infrastructure and manage structural lifecycles.
 *   **Software Architecture & Scientific Programming:** Crafting full-stack applications, data pipelines, and AI-driven solutions that transform complex data into actionable engineering tools.
 *   **Research & Innovation:** Developing deep-learning surrogate twins (e.g., for urban drainage systems), bridge reliability frameworks, and proof load testing methodologies.
-*   **Strategic Leadership:** Leading cross-functional teams and organizations (Tebib, EYEA) to drive digital transformation and operational excellence in tech and construction.
 
 ---
 
@@ -31,13 +30,10 @@ An advanced ML framework creating high-speed surrogate models for large-scale hy
 
 ### 🚀 Featured Projects
 
-#### 📱 Featured Application 1
-*Brief description of your app (e.g., A mobile solution for construction tracking or a utility tool).*
-- **Stack:** React Native / Flutter / Node.js
-
-#### 💻 Featured Website 1
-*Brief description of your web platform (e.g., Tebib’s official platform or an engineering dashboard).*
-- **Stack:** React.js / Next.js / PostgreSQL
+#### [💻 Tebib Labs: Official Website](https://github.com/nguseyxc92/tebib_labs)
+The corporate website of Tebib Labs, a software engineering and applied R&D company. It includes interactive Bayesian reliability and sensor-telemetry visualizations, a technical insights journal and project pages.
+- **Live:** [tebib-labs.netlify.app](https://tebib-labs.netlify.app/) · [GitHub Pages](https://nguseyxc92.github.io/tebib-labs-website/)
+- **Stack:** `React` · `TypeScript` · `Vite` · `Tailwind CSS`
 
 ---
 
