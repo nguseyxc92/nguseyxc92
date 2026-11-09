@@ -56,12 +56,10 @@ The corporate website of Tebib Labs, a software engineering and applied R&D comp
 
 ---
 
-### 📫 Let's Build the Future
-*   **LinkedIn:** [linkedin.com/in/negusesolomon](https://linkedin.com/in/negusesolomon)
-*   **ResearchGate:** [researchgate.net/profile/Neguse-Solomon-Mekonnen](https://www.researchgate.net/profile/Neguse-Solomon-Mekonnen)
-*   **GoogleScholar:** [scholar.google.com/citations?user=3zitT4AAAAAJ](https://scholar.google.com/citations?user=3zitT4AAAAAJ)
-*   **Portfolio:** [neguse.netlify.app](https://neguse.netlify.app/)
-*   **Email:** negusesolomon948@gmail.com
+### 📬 Let's Build the Future
+
+[![LinkedIn](https://shields.io)](https://linkedin.com/in/negusesolomon) [![ResearchGate](https://shields.io)](https://www.researchgate.net/profile/Neguse-Solomon-Mekonnen) [![Google Scholar](https://shields.io)](https://scholar.google.com/citations?user=3zitT4AAAAAJ) [![Portfolio](https://shields.io)](https://neguse.netlify.app/) [![Email](https://shields.io)](mailto:negusesolomon948@gmail.com)
+
 
 **Always Dream!**  
 *"Nobody's ever too old to set another goal, or to dream another dream."*  
