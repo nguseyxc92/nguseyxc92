@@ -17,8 +17,8 @@ I am a **Civil & Software Engineer** and **Researcher** dedicated to the interse
 
 #### 1. [Bayesian Reliability Updating of Bridge Structural Reliability Using Monitoring Data and Stop Criteria: A Case Study of the Zijlweg Viaduct](https://github.com/Ngusey21/zijlweg-bayesian-reliability)
 A state-of-the-art framework for quantifying bridge reliability using field monitoring data.
-- **Tech Stack:** `C++`, `Python` (Data Science), `MATLAB`.
-- **Impact:** Integrating AI-driven probabilistic modeling with structural analysis to ensure safety and optimize maintenance.
+* **Tech Stack:** `C++`, `Python` (Data Science), `MATLAB`.
+* **Impact:** Integrating AI-driven probabilistic modeling with structural analysis to ensure safety and optimize maintenance.
 
 ### 2. [Deep-Learning Surrogate Digital Twins for Predictive Capacity Auditing and Maintenance Optimization](https://github.com/nguseyxc92/culvert_twin)
 An advanced ML framework creating high-speed surrogate models for large-scale hydraulic infrastructure reliability tracking.
@@ -30,20 +30,18 @@ An advanced ML framework creating high-speed surrogate models for large-scale hy
 
 ### 🚀 Featured Projects
 
-#### [💻 Tebib Labs: Official Website](https://github.com/nguseyxc92/tebib_labs)
+#### [Tebib Labs: Official Website](https://github.com/nguseyxc92/tebib_labs)
 The corporate website of Tebib Labs, a software engineering and applied R&D company. It includes interactive Bayesian reliability and sensor-telemetry visualizations, a technical insights journal and project pages.
-- **Live:** [tebib-labs.netlify.app](https://tebib-labs.netlify.app/) · [GitHub Pages](https://nguseyxc92.github.io/tebib-labs-website/)
-- **Stack:** `React` · `TypeScript` · `Vite` · `Tailwind CSS`
+* **Live:** [tebib-labs.netlify.app](https://tebib-labs.netlify.app/) · [GitHub Pages](https://nguseyxc92.github.io/tebib-labs-website/)
+* **Stack:** `React` · `TypeScript` · `Vite` · `Tailwind CSS`
 
 ---
 
 ### 🌍 Global Impact & Leadership
 
-- **Erasmus Mundus Scholar:** Risk Assessment & Infrastructure Management (Europe/Global).
-- **International Monitor:** Special Monitoring Mission (SMM) at the **International Human Rights Commission (IHRC)**.
-- **Executive Leadership:** Secretariat of the Board at **Ethiopian Youth Entrepreneurs Association (EYEA)**.
-- **Former President:** **ECESA-WOU**, leading academic and external initiatives for civil engineering professionals.
-- **UoPeople Ambassador:** Promoting the democratization of global Computer Science education.
+*   **Founder & Director** at **Tebib Labs**, driving tools for uncertainty quantification and scientific computing.
+*   **Erasmus Mundus Scholar:** Risk Assessment & Infrastructure Management (Europe/Global).
+*   **Former President:** **ECESA-WOU**, leading academic and external initiatives for civil engineering professionals.
 
 ---
 
@@ -67,9 +65,11 @@ The corporate website of Tebib Labs, a software engineering and applied R&D comp
 ---
 
 ### 📫 Let's Build the Future
-- **LinkedIn:** [linkedin.com/in/negusesolomon](https://linkedin.com/in/negusesolomon)
-- **Portfolio:** [neguse.netlify.app](https://neguse.netlify.app/)
-- **Email:** negusesolomon948@gmail.com
+*   **LinkedIn:** [linkedin.com/in/negusesolomon](https://linkedin.com/in/negusesolomon)
+*   **ResearchGate:** [researchgate.net/profile/Neguse-Solomon-Mekonnen](https://www.researchgate.net/profile/Neguse-Solomon-Mekonnen)
+*   **GoogleScholar:** [scholar.google.com/citations?user=3zitT4AAAAAJ](https://scholar.google.com/citations?user=3zitT4AAAAAJ)
+*   **Portfolio:** [neguse.netlify.app](https://neguse.netlify.app/)
+*   **Email:** negusesolomon948@gmail.com
 
 **Always Dream!**  
 *"Nobody's ever too old to set another goal, or to dream another dream."*  
