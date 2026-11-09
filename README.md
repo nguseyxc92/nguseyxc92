@@ -58,7 +58,8 @@ The corporate website of Tebib Labs, a software engineering and applied R&D comp
 
 ### 📬 Let's Build the Future
 
-[![LinkedIn](https://shields.io)](https://linkedin.com/in/negusesolomon) [![ResearchGate](https://shields.io)](https://www.researchgate.net/profile/Neguse-Solomon-Mekonnen) [![Google Scholar](https://shields.io)](https://scholar.google.com/citations?user=3zitT4AAAAAJ) [![Portfolio](https://shields.io)](https://neguse.netlify.app/) [![Email](https://shields.io)](mailto:negusesolomon948@gmail.com)
+[![LinkedIn](https://shields.io)](https://linkedin.com) [![ResearchGate](https://shields.io)](https://researchgate.net) [![Google Scholar](https://shields.io)](https://google.com) [![Portfolio](https://shields.io)](https://netlify.app) [![Email](https://shields.io)](mailto:negusesolomon948@gmail.com)
+
 
 
 **Always Dream!**  
