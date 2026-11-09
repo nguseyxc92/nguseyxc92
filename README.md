@@ -37,14 +37,6 @@ The corporate website of Tebib Labs, a software engineering and applied R&D comp
 
 ---
 
-### 🌍 Global Impact & Leadership
-
-*   **Founder & Director** at **Tebib Labs**, driving tools for uncertainty quantification and scientific computing.
-*   **Erasmus Mundus Scholar:** Risk Assessment & Infrastructure Management (Europe/Global).
-*   **Former President:** **ECESA-WOU**, leading academic and external initiatives for civil engineering professionals.
-
----
-
 ### 💻 Tech Ecosystem
 
 | Infrastructure & Engineering | Software & AI | Management & Tools |
