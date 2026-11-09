@@ -58,7 +58,8 @@ The corporate website of Tebib Labs, a software engineering and applied R&D comp
 
 ### 📬 Let's Build the Future
 
-[🌐 **Personal Portfolio**](https://netlify.app) &nbsp;•&nbsp; [💼 **LinkedIn**](https://linkedin.com) &nbsp;•&nbsp; [🔬 **ResearchGate**](https://researchgate.net) &nbsp;•&nbsp; [🎓 **Google Scholar**](https://google.com) &nbsp;•&nbsp; [📧 **Email Me**](mailto:negusesolomon948@gmail.com)
+[**LinkedIn**](https://linkedin.com/in/negusesolomon) &nbsp;•&nbsp; [**ResearchGate**](https://www.researchgate.net/profile/Neguse-Solomon-Mekonnen) &nbsp;•&nbsp; [**Google Scholar**](https://scholar.google.com/citations?user=3zitT4AAAAAJ) &nbsp;•&nbsp; [**Personal Portfolio**](https://neguse.netlify.app/) &nbsp;•&nbsp; [**Email Me**](mailto:negusesolomon948@gmail.com)
+
 
 
 
