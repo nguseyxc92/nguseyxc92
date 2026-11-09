@@ -39,11 +39,11 @@ The corporate website of Tebib Labs, a software engineering and applied R&D comp
 
 ### 💻 Tech Ecosystem
 
-| Infrastructure & Engineering | Software & AI | Management & Tools |
+| Infrastructure & Engineering | Software & AI |
 | :--- | :--- | :--- |
-| **Analysis:** ETABS, SAP2000, SAFE | **Languages:** Python, JavaScript, C++ | **Strategic:** Agile, Scrum, PMP |
-| **Design:** AutoCAD, Civil 3D, Revit | **Web:** React, Node.js, Next.js | **Ops:** Git, Docker, LaTeX |
-| **BIM:** Structural Design & Planning | **AI/ML:** NumPy, SciPy, MCMC | **Leadership:** Strategic Operations |
+| **Analysis:** ETABS, SAP2000, SAFE | **Languages:** Python, JavaScript, C++ |
+| **Design:** AutoCAD, Civil 3D, Revit | **Web:** React, Node.js, Next.js |
+| **BIM:** Structural Design & Planning | **AI/ML:** NumPy, SciPy, MCMC |
 
 ---
 
