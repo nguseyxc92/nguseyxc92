@@ -40,7 +40,7 @@ The corporate website of Tebib Labs, a software engineering and applied R&D comp
 ### 💻 Tech Ecosystem
 
 | Infrastructure & Engineering | Software & AI |
-| :--- | :--- | :--- |
+| :--- | :--- |
 | **Analysis:** ETABS, SAP2000, SAFE | **Languages:** Python, JavaScript, C++ |
 | **Design:** AutoCAD, Civil 3D, Revit | **Web:** React, Node.js, Next.js |
 | **BIM:** Structural Design & Planning | **AI/ML:** NumPy, SciPy, MCMC |
