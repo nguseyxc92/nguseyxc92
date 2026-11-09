@@ -1,15 +1,16 @@
 # Neguse Solomon Mekonnen 👋
 ### Engineering • Technology • Research
 
-I am a multidisciplinary professional dedicated to the intersection of **Structural Engineering**, **Computer Science**, and **Strategic Leadership**. I design, analyze, and build intelligent systems—ranging from resilient physical infrastructure to scalable digital architectures.
+I am a **Civil & Software Engineer** and **Researcher** dedicated to the intersection of Structural Engineering, Computer Science, and Data-Driven Systems. I combine engineering principles, Bayesian reliability, and modern software architecture to design, analyze, and build intelligent, resilient systems—ranging from physical bridge infrastructures to scalable digital tools.
 
 ---
 
 ### 🛠 Professional Focus
 
-- **Engineering Design & Analysis:** Utilizing computational mechanics, Bayesian reliability, and advanced simulation to design, build, and optimize critical infrastructure for a sustainable future.
-- **Software Architecture & AI:** Crafting full-stack applications and AI-driven solutions that transform complex data into actionable insights and high-performance digital tools.
-- **Strategic Innovation & Management:** Leading cross-functional teams and organizations (Tebib, EYEA) to drive digital transformation and operational excellence in the tech and construction sectors.
+*   **Structural Engineering & Reliability:** Utilizing computational mechanics, risk assessment, and Bayesian inference to optimize infrastructure and manage structural lifecycles.
+*   **Software Architecture & Scientific Programming:** Crafting full-stack applications, data pipelines, and AI-driven solutions that transform complex data into actionable engineering tools.
+*   **Research & Innovation:** Developing deep-learning surrogate twins (e.g., for urban drainage systems), bridge reliability frameworks, and proof load testing methodologies.
+*   **Strategic Leadership:** Leading cross-functional teams and organizations (Tebib, EYEA) to drive digital transformation and operational excellence in tech and construction.
 
 ---
 
