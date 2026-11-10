@@ -32,7 +32,12 @@ An advanced ML framework creating high-speed surrogate models for large-scale hy
 
 #### 1. [Tebib Labs: Official Website](https://github.com/nguseyxc92/tebib_labs)
 The corporate website of Tebib Labs, a software engineering and applied R&D company. It includes interactive Bayesian reliability and sensor-telemetry visualizations, a technical insights journal and project pages.
-* **Live:** [tebib-labs.netlify.app](https://tebib-labs.netlify.app/) · [GitHub Pages](https://nguseyxc92.github.io/tebib-labs-website/)
+* **Live:** [Netlify](https://tebib-labs.netlify.app/)
+* **Stack:** `React` · `TypeScript` · `Vite` · `Tailwind CSS`
+
+#### 2. [Personal Portfolio & Research Hub](https://github.com/nguseyxc92/neguse)
+The academic and engineering portfolio website showcasing civil infrastructure reliability frameworks, Bayesian updating tools, and deep-learning surrogate digital twins. Features interactive lab modules, a centralized publication index, and live LaTeX-rendered calculations.
+* **Live:** [Netlify](https://neguse.netlify.app/)
 * **Stack:** `React` · `TypeScript` · `Vite` · `Tailwind CSS`
 
 ---
